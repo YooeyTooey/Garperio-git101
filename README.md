@@ -1,4 +1,3 @@
 # Garperio-git101
-
 # Hi This is my first commit
-# Konichiw this is my second commit
+# Konichiwa this is my second commit
